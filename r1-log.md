@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Mirza Sisic]
 
-The log of my #100DaysOfCode challenge. Started on [January 17, Wednesday, 2018].
+The log of my #100DaysOfCode challenge. Started on [January 1, Monday, 2018].
 
 ## Log
 
@@ -52,29 +52,80 @@ Done more reading about accessibility, I need it for my job as QA tester
 ###R1D16
 Spent a few hours customizing a bootstrap carousel/slider
 
+###R1D17
+I read about a comparison between Composer Vs NPM vs Bower.
 
+###R1D18
+I watched "Visual Studio Code for PHP Developers" at Laracasts! - This should be under junior developer porn section!
 
+###R1D19
+Making a custom 404 page on  GitHub pages couldn't be any easier, all you need to do is add your 404.html file in the root folder of your site!
 
+### R1D20
+I spent a few hours customizing a #Bootstrap carousel,  central image needed to brighten up when it comes into focus, I got some helpful insights from: @realtoughcandy
 
-### R1D1 
-Started the challenge 
+### R1D21
+Playing around with #CSS media queries. and writing a blog post on the new HTML 5.2 spec
+PS obligatory CSS gif: https://i.imgur.com/Q3cUg29.gif 
 
-### R1D2
-Started working on website for a friend
+### R1D22
+New #WordPress update broke the Jetpack plugin, I't trying to find a work around, since the Blaskan theme requires that plugin to work, I might need to downgrade to the previous version of WP.
 
-### R1D3
-Added content to the site and tested it on GitHub pages
+### R1D23
+CSS was kicking my ass, it even rhymes! 
 
-### R1D4
-Watched a few CSS tutorials
+###R1D24
+Howdy, today I was taking a gander at @laracasts tutorials.
 
-### R1D5
-Worked on Free Code Camp weather app
+###R1D25
+21: I spent some time modifying #bootstrap css and done some reading on #StackOverflow PS I  noticed that I got the yearling silver badge. 
 
-###R1D39
-Added thumbnaillinks on the BlueQuote website I'm working on and figured out how to place text over images, added social media (Font Awesome) icons in the footer.  Now I'm off to start with the #freecodecamp #reactjs challenges - Build a Recipe Box
+### R1D26
+I watched @laracasts tutorial series on how to use #PHP with #vscode
+
+### R1D27
+I was attending a @wrike  webinar labeled: "5 Things Not To Do In Wrike" - pretty interesting talk about project management.
+
+### R1D28
+I spent time experimenting with #WordPress and tried an app called Local by Flywheel, which aims to speed up WP development process.
+
+###R1D29
+I started making yet another version of my portfolio,  using #reactjs and #W3.CSS framework, I needed a brief respite from using #Bootstrap W3.css has a very nice and intuitive class names
+
+###R1D30
+I listened to two presentations, one on Functional Programming and another about Redux from at the @JSSarajevo meetup, very illuminating! 
+
+###R1D31
+I'm back to working on my portfolio, splitting the app into components, once that is done I'l try to implement what I've learner yesterday and add a contact from using #Redux forms.
+
+###R1D32
+It's practical when you can study and work at the same time - I'm testing an implementation of an API, checking if JSON's contain all the required data and learning as I go!
+
+###R1D33
+Experimenting with a few #WordPress plugins, for sliders and image galleries.
+
+###R1D34
+I'm working on a #WordPress website making minor #css changes to the theme to customize it the way I need it to look.
+
+### R1D35
+Messed around with iframe options for embedding #YouTube videos and added a videos section for the website I'm making for a local bend
+
+### R1D36
+I'm looking into LESS, CSS pre-processor, and I'm staring to see that it has a lot of advantages, using variables for frequently used values, like colors for example!
+
+### R1D37
+I'm reading React.js Succinctly,a free e-Book by Samer Buna, friendly towards lazy readers and dope introduction to React.
+
+### R1D38
+WordPress again, continuing to work on the band (BASHESKIA & EDWARD EQ) website for a friend,adding images and more textual content and a few more videos: https://youtu.be/NdczEgEj2n0 
+
+### R1D39
+I'm making a  site for a dance instructor, I added a contact form, now I'm working on adding a membership forum: https://github.com/Mickey0001/SriDeviRadhika
 
 ###R1D40
+Added thumbnaillinks on the BlueQuote website I'm working on and figured out how to place text over images, added social media (Font Awesome) icons in the footer.  Now I'm off to start with the #freecodecamp #reactjs challenges - Build a Recipe Box
+
+###R1D41
 I got hosting, domain and SSL cert all setup for first e-commerce website: https://buvashop.com  I'm working on. WordPress is installed, updated and backed-up, also I installed the  Boutique theme and now I'm gonna customize it and add WooCommerce!
 
 ### R1D42
