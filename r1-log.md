@@ -5,34 +5,34 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Monday, 2018].
 ## Log
 
 ### R1D1 
-Started the challenge 
+Started the challenge. 
 
 ### R1D2
-Started working on website for a friend
+Started working on website for a friend.
 
 ### R1D3
-Added content to the site and tested it on GitHub pages
+Added content to the site and tested it on GitHub pages.
 
 ### R1D4
-Watched a few CSS tutorials
+Watched a few CSS tutorials.
 
 ### R1D5
-Worked on Free Code Camp weather app
+Worked on Free Code Camp weather app.
 
 ###R1D6
-Watched a Udemy course on React
+Watched a Udemy course on React.
 
 ###R1D7
-Added more content to the portfolio site, practiced Bootstrap
+Added more content to the portfolio site, practiced Bootstrap.
 
 ### R1D8
-Played around with React components 
+Played around with React components. 
 
 ### R1D9
-Read about accessibility for color blind, screen readers and semantic HTML
+Read about accessibility for color blind, screen readers and semantic HTML.
 
 ### R1D10
-Tested my site in BrowserStack and practiced some PHP
+Tested my site in BrowserStack and practiced some PHP.
 
 ###R1D11
 Purchase a domain, disabled right clicking on the site (requested by the "client" - friend)
