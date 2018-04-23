@@ -54,6 +54,56 @@ Spent a few hours customizing a bootstrap carousel/slider
 
 
 
+
+
+### R1D1 
+Started the challenge 
+
+### R1D2
+Started working on website for a friend
+
+### R1D3
+Added content to the site and tested it on GitHub pages
+
+### R1D4
+Watched a few CSS tutorials
+
+### R1D5
+Worked on Free Code Camp weather app
+
+###R1D39
+Added thumbnaillinks on the BlueQuote website I'm working on and figured out how to place text over images, added social media (Font Awesome) icons in the footer.  Now I'm off to start with the #freecodecamp #reactjs challenges - Build a Recipe Box
+
+###R1D40
+I got hosting, domain and SSL cert all setup for first e-commerce website: https://buvashop.com  I'm working on. WordPress is installed, updated and backed-up, also I installed the  Boutique theme and now I'm gonna customize it and add WooCommerce!
+
+### R1D42
+Day 40: I'm reading @PayPal API documentation on setting up a sandbox account to test payments with #WooCommerce plugin. https://developer.paypal.com/docs/classic/lifecycle/ug_sandbox/ …
+
+### R1D43
+After taking a break yesterday, today I'm checking out a few #WordPress performance related plugins, WP SMUSH,  WP Super Minify and W3 Total Cache have proven to be very useful.
+
+### R1D44
+Adding more product to the e-commerce store I'm making, making sure images are nice and compressed, hopefully by the end of the day I'll finish setting up the #PayPal payment gateway too.
+
+###R1D45
+Added Terms and Conditions, also added #paypal guest check out so customers can pay with credit/debit card or with #paypal.
+
+###R1D46
+Re-arranged the product categories, added more products, enabled gzip compressing still trying to get the minification and caching settings right, on mobile version most optimizations are okay, but on the desktop caching and minifcation are glitchy.
+
+###R1D47
+Problems with database connections, I fiddle with FTP and files on the server to disable plugins, for troubleshooting, fixed the issue by repairing tables in phpMyAdmin, also had to change DNS servers too - let's just say I was one busy troubleshooter.
+
+###R1D48
+Getting started with JavaScript: Understanding the Weird Parts course (by Anthony Alicea),  I like the way he explains things!
+
+###R1D49
+After taking a short break yesterday, I resume the Alicea's #javascript course, reminded my self of some important concepts: scope, function invocation, synchronous vs asynchronous execution and  finally understood what variable hoisting really is!
+
+###R1D50
+Tried a few #WordPress multi-lingual plugins, Weglot seems okay, free version translates up to 2k words on a single site, pretty easy to implement and customize, just add the API key and chose display options, some translations aren't ideal but... 
+
 ### R1D51 
 Day 51: Resuming the C# course, I've learned how to write the basic "Hello World", also learned about the .NET class library and what it does, learned how comments are written - pretty much same as in #javascript also learned that C#  is VERY case sensitive.
 
