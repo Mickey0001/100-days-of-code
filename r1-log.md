@@ -298,3 +298,6 @@ I worked on my portfolio and added a few cards to the project section.  And whil
 
 ###R1D98
 I added a carousel comportment to my portfolio in order display client recommendations, now I'll have to style it a little bit more.
+
+###R1D99
+Imported some images in my react portfolio and started working on the Contact component using redux-form. 
