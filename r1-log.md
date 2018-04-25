@@ -301,3 +301,6 @@ I added a carousel comportment to my portfolio in order display client recommend
 
 ###R1D99
 Imported some images in my react portfolio and started working on the Contact component using redux-form. 
+
+###R1D99
+Day 100! Added auto-play loop to the client carousel (stateful component) also added a test version of logo and favicon to see how would it look as a whole. Tomorrow I'm starting round two of the challenge!
