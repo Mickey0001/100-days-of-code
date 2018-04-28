@@ -5,5 +5,11 @@ The log of my #100DaysOfCode challenge. Started on [April 26, Thursday, 2018].
 ## Log
 
 ### R2D1
-Starting the second round of the challenge. 
+Starting the second round of the challenge.
 Done some work for a client copying design from one site and applying it to another.
+
+### R2D2
+I've made a few additional tweaks to my portfolio, I found a service (http://frame.lab25.co.uk/) that puts device frames around website screenshots so I'm using that to make my projects more fancy looking!
+
+### R2D3
+Removed a few unused components from package.json and started working on the hamburger menu, also added a few more projects to my portfolio.
