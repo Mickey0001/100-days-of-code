@@ -31,3 +31,6 @@ I setup a contact form for my portfolio, I used Wufoo to keep it simple, tested 
 
 ###R2D9
  I'm trying to get more familiar with Shopify platform, so far I've noticed some similarities with WordPress dashboard. The Liquid templating language kind of reminds me of Handlebars.js Also, I've started a course called Shopify Essentials on Skillshare
+
+###R2D10
+ Today I was modifying the Owl carousel plugin for a client, no hard work on Saturday!
