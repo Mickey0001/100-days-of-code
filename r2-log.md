@@ -33,4 +33,10 @@ I setup a contact form for my portfolio, I used Wufoo to keep it simple, tested 
  I'm trying to get more familiar with Shopify platform, so far I've noticed some similarities with WordPress dashboard. The Liquid templating language kind of reminds me of Handlebars.js Also, I've started a course called Shopify Essentials on Skillshare
 
 ###R2D10
- Today I was modifying the Owl carousel plugin for a client, no hard work on Saturday!
+Today I was modifying the Owl carousel plugin for a client, no hard work on Saturday!
+
+###R2D11
+I made a few more adjustments to the Owl carousel, setup a custom template for the WordPress home page and worked on my portfolio a little bit.
+
+###R2D12
+ Today I worked on the Resume component for my portfolio, I got most of the word done, all that is left to tweak the css a bit more and make a few changes to the text.
