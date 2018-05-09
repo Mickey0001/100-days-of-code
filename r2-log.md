@@ -40,3 +40,6 @@ I made a few more adjustments to the Owl carousel, setup a custom template for t
 
 ###R2D12
  Today I worked on the Resume component for my portfolio, I got most of the word done, all that is left to tweak the css a bit more and make a few changes to the text.
+
+###R2D13
+I got some design tips for the site I'm working (https://safetbeg.com/contact.html) on and I implemented a few of those today, changed the @ sign to an envelope icon, improved padding and letter spacing and also worked on my portfolio, updating the components.
