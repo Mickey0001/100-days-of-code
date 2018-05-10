@@ -44,5 +44,8 @@ I made a few more adjustments to the Owl carousel, setup a custom template for t
 ###R2D13
 I got some design tips for the site I'm working (https://safetbeg.com/contact.html) on and I implemented a few of those today, changed the @ sign to an envelope icon, improved padding and letter spacing and also worked on my portfolio, updating the components.
 
-###R2D13
-Today I was working on the Free Code Camp camper's leaderboard to practice reactjs and to learn more about axios library. When I finish it I'll have to figure out where to deploy it. 
+###R2D14
+Today I was working on the Free Code Camp camper's leaderboard to practice reactjs and to learn more about axios library. When I finish it I'll have to figure out where to deploy it.
+
+###R2D15
+I finished the camper leaderboard: https://camper-a2c3e.firebaseapp.com/ To be honest I was surprised how easy it is to deploy a #React app using Firebase  CLI!
