@@ -49,3 +49,13 @@ Today I was working on the Free Code Camp camper's leaderboard to practice react
 
 ###R2D15
 I finished the camper leaderboard: https://camper-a2c3e.firebaseapp.com/ To be honest I was surprised how easy it is to deploy a #React app using Firebase  CLI!
+
+###R2D16
+I went to a coding meetup at @Symphony_is ,
+there was talk about #Swift  and #iOS apps and BARBECUE! 😍To my surprise I could actually read some of the Swift syntax and understand it.
+
+###R2D17
+I made a test deployment of my portfolio on @Firebase https://mirza-sisic.firebaseapp.com/ I had a few issues with mixed content from Google fonts but I think I solved them. I used #reactjs #bootstrap and font-awesome, few more optimizations and tweaks left to do.
+
+###R2D18
+Making improvements to my portfolio, in terms of padding and spacing, and trying to add more PWA aspects to the manifest.json such as custom splash screen and the option to add it to home screen on mobile.
