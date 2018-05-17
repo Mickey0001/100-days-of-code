@@ -59,3 +59,9 @@ I made a test deployment of my portfolio on @Firebase https://mirza-sisic.fireba
 
 ###R2D18
 Making improvements to my portfolio, in terms of padding and spacing, and trying to add more PWA aspects to the manifest.json such as custom splash screen and the option to add it to home screen on mobile.
+
+###R2D19
+I made a few additional corrections on my portfolio and optimized it a bit more. I ran into a minor issue with StackOverflow user story link (it's not responsive) so I replaced it with the profile link which has a mobile version.
+
+###R2D20
+I made some  adjustments to meta tags on my site and wrote a short blog post on how to host a #React app on Firebase: http://juniorlearnstocode.blogspot.ba/2018/05/how-to-deploy-react-app-to-firebase.html
