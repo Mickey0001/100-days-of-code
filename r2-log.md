@@ -65,3 +65,9 @@ I made a few additional corrections on my portfolio and optimized it a bit more.
 
 ###R2D20
 I made some  adjustments to meta tags on my site and wrote a short blog post on how to host a #React app on Firebase: http://juniorlearnstocode.blogspot.ba/2018/05/how-to-deploy-react-app-to-firebase.html
+
+###R2D21
+I'm back to learning Laravel.  After setting up the project in Xampp with Composer I'm ready to get started!  What can I say - I like big frameworks and I cannot lie. You other coders can't deny. 🤪 #laravel #PHP #composer #artisan #Git #VSCode #xampp
+
+###R2D22
+I migrated a local #WordPress site to a test location, now I need to fix a few things that have gone wild after the migration so I can get back to the fun stuff - namely learning #laravel
