@@ -71,3 +71,30 @@ I'm back to learning Laravel.  After setting up the project in Xampp with Compos
 
 ###R2D22
 I migrated a local #WordPress site to a test location, now I need to fix a few things that have gone wild after the migration so I can get back to the fun stuff - namely learning #laravel
+
+##R2D23
+Today I had some more fun with #laravel making controllers, views, I got started with Blade templating, made a navbar inc and a few basic routes for the basic blog app
+
+##R2D24
+Today I practiced using Artisan CLI and the Eloquent ORM and from my nerdy perspective the results were impressive, most impressive.  Also implementing pagination with #Laravel is a peace of cake (not CakePHP of course, just cake)
+
+##R2D25
+I added form submission and editing functionality to the #laravel blog app and added text edit plugin as well.
+
+##R2D26
+I added authentication to my little blog, now I can register and login, I was surprised to see how easy is was to get this done using php artisan!
+
+##R2D27
+I added image upload functionality to my blog, placeholder image when no image is uploaded and also made sure that image is deleted from the storage folder when a post gets deleted. #laravel #PHP
+
+##R2D28
+I made a  few changes on my portfolio, added a container wrapper component to make the layout more symmetrical, a bit of text shadow for headings, more padding between sections. I also worked on a tattoo parlor gallery website a bit: …https://tattoo-studio-akademija-dbe23.firebaseapp.com/
+
+##R2D29
+Today I practiced CRUD functionality with simple API in Laravel and tested the requests in Postman, the most gratifying part was that I noticed that I got a little faster at figuring out and fixing errors in my code.
+
+##R2D30
+I started adding the Vue front-end to my Laravel app, I haven't used Vue before but the concepts seems very similar to React.
+
+##R2D31
+I finished the the front end of my Articles app using Vue, I thought I did something wrong since the API was working but not being displayed in the view, CTRL + F5 solved the "issue"...
