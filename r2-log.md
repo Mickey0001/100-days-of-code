@@ -96,5 +96,26 @@ Today I practiced CRUD functionality with simple API in Laravel and tested the r
 ##R2D30
 I started adding the Vue front-end to my Laravel app, I haven't used Vue before but the concepts seems very similar to React.
 
-##R2D31
+##R2D32
 I finished the the front end of my Articles app using Vue, I thought I did something wrong since the API was working but not being displayed in the view, CTRL + F5 solved the "issue"...
+
+##R2D32
+I made a few smaller tweaks to the Laravel/Vue article app (added footer component) browsed for new Laravel Tutorials and completed exams for a few GymShorts mini courses from Gymnasium. I got 90%-100% scores from fist attempt for most of them. Thug Life.
+
+##R2D33
+I started the #Laravel course from Edwin Diaz, reviewed all the setup intro videos so I get more comfortable with setting up the environment, now I'm off to start actually working on the Laravel CMS project!
+
+##R2D34
+I've done some research about #laravel Homestead and wrote a blog short post about it: http://ift.tt/2L6mXNN  Also added a few raw svg icons to my portfolio since font-awesome version 5 for #React is still in beta as I understand it.
+
+##R2D35
+ I didn't get to code as much today, but I did get around to add a new component to my portfolio, just a few svg logos for the Skills. I might be adding a few more, but I'll try no to overdo it.  I used Devicon icons from #github : http://konpa.github.io/devicon/
+
+##R2D36
+I added more skills to my portfolio: https://mirzasisic.com  and done some testing for a client, trying to figure out why a peace of code is working on localhost but not on the test deployment, made a little progress.
+
+##R2D37
+I'm almost done with the Laravel Homestead course, setting up vagrant and virtual box, lots of command-line stuff and I had to upgrade the version of PowerShell on my Windows before I could provision it. It's a lot of fun.
+
+##R2D38
+I continued learning #laravel today, focusing on routes, I completed a section in the course, referenced the documentation a lot and experimented on my own. 
