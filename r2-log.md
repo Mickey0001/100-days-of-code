@@ -118,4 +118,70 @@ I added more skills to my portfolio: https://mirzasisic.com  and done some testi
 I'm almost done with the Laravel Homestead course, setting up vagrant and virtual box, lots of command-line stuff and I had to upgrade the version of PowerShell on my Windows before I could provision it. It's a lot of fun.
 
 ##R2D38
-I continued learning #laravel today, focusing on routes, I completed a section in the course, referenced the documentation a lot and experimented on my own. 
+I continued learning #laravel today, focusing on routes, I completed a section in the course, referenced the documentation a lot and experimented on my own.
+
+##R2D39
+ I took it easy today and just completed a few of the new lessons from @freeCodeCamp and wrote a blog post about it: https://ift.tt/2LezJKr  I'm really glad to see that the Free Code Camp community is growing! 😍 #bloggers #freeCodeCamp #coding
+
+##R2D40
+Today I practiced using controllers and also about using Blade templates in the views.  Now I'm 99% certain that I want to dedicate the remaining 60 days of round 2 for getting better with Laravel, I just love it!
+
+##R2D41
+ I completed a course section on Blade templating in Laravel, next up is the database migrations section, I also complete a few lessons on Free Code Camp and wrote a blog post about static site generators: https://ift.tt/2Ln7wkx   
+
+##R2D42
+I played around with migrations using php artisan and completed the flex-box section on the Free Code Camp, lots of brownie points, yum yum.
+
+##R2D43
+Experimented with database tables and columns in Laravel and wrote a blog post about Microsoft's acquisition of GitHub:  https://ift.tt/2LvoZYc
+
+##R2D44
+Practiced raw SQL queries in Laravel, completed a #FreeCodeCamp project technical documentation page: https://bit.ly/2Hyvs24  and I noticed they added unit test to the projects, so I practiced Chai.js with my homie, forsooth 'twas a good day.
+
+##R2D45
+I completed the #css grid portion of the new ffc lessons and since it completed a lot of front-end stuff from the old curriculum I only have two more projects to complete for the Responsive Web Design Certification. Also learned bit about Eloquent ORM.
+
+##R2D46
+I refreshed my knowledge of Sass by completing the Introduction to the Sass Challenges on Free Code Camp and practiced using Eloquent ORM in hopes of becoming more, ahem, eloquent with Laravel syntax in general.
+
+##R2D47
+Today I practiced ES6 a bit, studied Laravel and completed the Survey Form project on free code camp: https://t.co/LrUflJqxrX
+
+##R2D48
+I finished the free code camp ES6 section to refresh my memory and practiced one-to-one relations using Eloquent in Laravel.
+
+##R2D49
+I practiced regular expressions, relationships with Eloquent in Laravel and refactored some of the code for my portfolio, created separate components for SVGs so they' re no longer all in one file. I'm a big fan of breaking down code into smaller chunks.
+
+##R2D50
+Today I completed the Debugging Challenges on #freeCodeCamp and practiced Laravel.
+
+##R2D51
+Today a practiced regular expressions a bit, just soft-core coding for today, nothing too serious.
+
+##R2D52
+Yesterday I took a short break because of the Eid holiday. 🍪😎 Today I continued with the Laravel course and practiced CRUD. What I like about Edwin Diaz's course is that he repeats things so often that even I start to memorize stuff!
+
+##R2D53
+Today I practiced using #gulpjs  with #Sass, since Sass is made in #ruby for some mysterious reason I couldn't get it to work until I installed Ruby on my system...
+
+##R2D54
+I completed a crash course on #gulpjs and finished the #freeCodeCamp Responsive Web Design Certification: https://bit.ly/2JSc4mC  Also practiced Sass and many-to-many relations in Laravel.
+
+##R2D55
+Today I practiced Eloquent Polymorphic Relationship in #Laravel
+
+##R2D56
+R2D56: Today I practiced polymorphic relationships in Laravel and a little bit of OOP on #freeCodeCamp
+
+##R2D57
+Practiced  using forms in Laravel.
+
+##R2D58
+Continued practicing forms in #laravel with Laravel Collective package and researched  a few #wordpressplugins for a client.
+
+##R2D59
+Today I had to learn #gruntjs  and teach a client how to use it! Luckily I already used #gulpjs  previously so and they are both task runners so it was mostly a matter of looking up the documentation. Situations like this are good for learning!
+
+##R2D60
+Today I followed along with a short  Grunt.js crash course from Net Ninja and started working on #wordpress site for a client. I actually like using WP, it's easy and relaxing, most of the time.
