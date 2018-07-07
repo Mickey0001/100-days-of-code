@@ -185,3 +185,36 @@ Today I had to learn #gruntjs  and teach a client how to use it! Luckily I alrea
 
 ##R2D60
 Today I followed along with a short  Grunt.js crash course from Net Ninja and started working on #wordpress site for a client. I actually like using WP, it's easy and relaxing, most of the time.
+
+##R2D61
+ I practice OPP on #freeCodeCamp a bit and worked on RT18  #WordPressTheme a lot.
+
+##R2D62
+ Today I worked on a #WordPress site for a client, done some accessibilty testing and learned #Laravel a bit along the way.
+
+##R2D63
+ Practiced using Authentication and Middleware in  Laravel, PHP Artisan CLI makes it very convenient to start using both!
+
+##R2D64
+ Today I practiced sessions in #laravel and signed up for MailGun to practice sending email. Also, I wrote short blog post on Blade Templates: https://ift.tt/2lOM7pX  now it's time to continue working on a #WordPress site I'm making for a client.
+
+##R2D65
+Today I started a new practice project in Laravel where I'll try to implement all (or most) of the stuff I've learned so far, also what really made my day was when I saw that I reach 7k visits on my blog: https://juniorlearnstocode.blogspot.com/ !
+
+##R2D66
+Today I practiced inserting data into the database using Tinker shell in Laravel to get a little better at using Eloquent and command line at the same time.
+
+##R2D67
+Today I practiced Laravel, wrote a blog post about the importance of knowing the basics of command line: https://ift.tt/2tMU4jt  and practiced PSD to HTML a bit as well.
+
+##R2D68
+Continuing with Laravel course from Laracasts.
+
+##R2D69
+ I continued learning my bellowed #Laravel and also practiced #PSD to #HTML, put the test version on #github pages: https://mickey0001.github.io/PSD-to-HTML/  still need to polish it out a bit, especially in terms of responsiveness.
+
+##R2D70
+I worked on a #WordPress site for a client and implemented comments in my experimental #laravel blog, also used Carbon package for more human readable dates.
+
+##R2D71
+I explained to the client how to use the WP Bakery page builder and now I'm off to have fun and study Laravel.
