@@ -218,3 +218,36 @@ I worked on a #WordPress site for a client and implemented comments in my experi
 
 ##R2D71
 I explained to the client how to use the WP Bakery page builder and now I'm off to have fun and study Laravel.
+
+##R2D72
+I finished a #WordPress site for a client and learned how to make authentification from scratch in #Laravel, without #php artisan make:auth to better understand the process behind the scenes.  #hashtag
+
+##R2D73
+Started the testing part of the Laravel course, using Faker to add fake data to run unit tests with PHPUnit.
+
+##R2D74
+ Today I complete a #Laravel course on #laracasts and #VSCode course for #php developers I started a while ago. I'm slowly stating to become more comfortable with Laravel, I'm starting to see that how important repetition is for retaining information.
+
+##R2D75
+Made some changes on #WordPress site for a client, now it's back to learning more interesting #php stuff, namely #Laravel.
+
+##R2D76
+Completed the WordPress site and client signed it off, now back to the Laravel course.
+
+##R2D77
+Today I researched the difference between last 5 #laravel versions (5.2, 5.3, 5.4, 5.5 and 5.6) and generally what to have in mind when upgrading to a newer version.  Also done some consulting for a client.
+
+##R2D78
+Took a short break yesterday, continuing to learn Laravel today. Also I got the 100 Algorithms Challenge #udemy course for free. The course seems pretty promising! Thanks @ErikCH and @PizzaPokerGuy
+
+##R2D79
+Started a #PHP course from #Coursera today, it's pretty academic and goes into lot of details, daddy like
+
+##R2D80
+Practiced making a from with a package from Laravel Collective and completed week 2 of the Coursera course today, ain't no way I'm spending whole week reviewing HTML.
+
+##R2D81
+Today I continued learning #PHP and #Laravel also I wrote a blog post about my first time of using #Upwork as a client: https://ift.tt/2zRS5A2
+
+##R2D82
+Reviewed PHP fundamentals and continued learning CRUD in Laravel so I can update myself, my fake account in my fake application that is.
