@@ -251,3 +251,27 @@ Today I continued learning #PHP and #Laravel also I wrote a blog post about my f
 
 ##R2D82
 Reviewed PHP fundamentals and continued learning CRUD in Laravel so I can update myself, my fake account in my fake application that is.
+
+##R2D83
+Reviewing arrays in PHP. I couldn't help myself so I made a cheesy meme about the explode() function
+
+##R2D84
+Practicing Laravel, I completed about 70% of the Edwin's course, I plan to finish it by the end of this month.
+
+##R2D85
+Completed a few more lessons in the Laravel course and started working on a prototype for a jazz artist website
+
+##R2D86
+Explained to the client how to backup the site before updating #Wordpress core, themes and plugins, and also continued working on my custom theme for another client.
+
+##R2D87
+Today I continued studying PHP, how to deploy Laravel apps and worked on my custom WordPress theme.
+
+##R2D88
+Studied PHP and continued working a website for the  client.
+
+##R2D89
+Another PHP/WP side project, converting a static site that uses Semantic UI framework to a WP theme.  While using WP is pretty easy I feel the need to get a deeper understanding of PHP!
+
+##R2D90
+ I'm almost done with Edwin's Laravel course. While it was interesting, the course was a bit too long (about 30 hours).  Once I finish the 4 remaining lessons I plan to continue learning more about PHP.
