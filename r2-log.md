@@ -274,4 +274,34 @@ Studied PHP and continued working a website for the  client.
 Another PHP/WP side project, converting a static site that uses Semantic UI framework to a WP theme.  While using WP is pretty easy I feel the need to get a deeper understanding of PHP!
 
 ##R2D90
- I'm almost done with Edwin's Laravel course. While it was interesting, the course was a bit too long (about 30 hours).  Once I finish the 4 remaining lessons I plan to continue learning more about PHP.
+I'm almost done with Edwin's Laravel course. While it was interesting, the course was a bit too long (about 30 hours).  Once I finish the 4 remaining lessons I plan to continue learning more about PHP.
+
+##R2D91
+Learning PHP,  turning a static website based on Semantic UI into a WordPress theme. I made a little thumbnail for the theme in PS so it doesn't look ugly in WP back-end.
+
+##R2D92
+Started coding a custom landing page for a client and finally completed the Laravel course http://ude.my/UC-0O4J9642  on @udemy
+
+##R2D93
+Almost done with making a custom landing page for the client so now I can focus on completing a custom #WordpressTheme for another client.
+
+##R2D94
+Helped a friend to get his site indexed by Google, worked on my custom #WordpressTheme and coded a landing page.
+
+##R2D95
+I'm finalizing the custom #WordPress theme, I need to make a few more page templates and to test the entire theme before shipping it to the client. I noticed the test version of WP Gutenberg is out and I can't wait to play with it over the weekend!
+
+##R2D96
+I don't consider my self a cowardly man, but, working with .htaccess files can be a real nightmare...
+
+##R2D97
+Writing functions for #WordPress customizer so the user can edit the header image later on.
+
+##R2D98
+Added more editable areas to my custom theme.
+
+##R2D99
+Finishing up the customized theme, today I added functions for the slider headline and textarea to the customizer and made the projects section dynamic. Only one more day to go before round two of this challenge is complete!
+
+##R2D100
+Finished working on the custom #WordPress theme, implemented editable thumbnails and customization slider and completed the template pages, now it's time for the client review! Second round of the challenge is hereby done, making it 200 days of code! 
