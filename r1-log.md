@@ -4,8 +4,8 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Monday, 2018].
 
 ## Log
 
-### R1D1 
-Started the challenge. 
+### R1D1
+Started the challenge.
 
 ### R1D2
 Started working on website for a friend.
@@ -26,7 +26,7 @@ Watched a Udemy course on React.
 Added more content to the portfolio site, practiced Bootstrap.
 
 ### R1D8
-Played around with React components. 
+Played around with React components.
 
 ### R1D9
 Read about accessibility for color blind, screen readers and semantic HTML.
@@ -66,19 +66,19 @@ I spent a few hours customizing a #Bootstrap carousel,  central image needed to 
 
 ### R1D21
 Playing around with #CSS media queries. and writing a blog post on the new HTML 5.2 spec
-PS obligatory CSS gif: https://i.imgur.com/Q3cUg29.gif 
+PS obligatory CSS gif: https://i.imgur.com/Q3cUg29.gif
 
 ### R1D22
 New #WordPress update broke the Jetpack plugin, I't trying to find a work around, since the Blaskan theme requires that plugin to work, I might need to downgrade to the previous version of WP.
 
 ### R1D23
-CSS was kicking my ass, it even rhymes! 
+CSS was kicking my ass, it even rhymes!
 
 ###R1D24
 Howdy, today I was taking a gander at @laracasts tutorials.
 
 ###R1D25
-21: I spent some time modifying #bootstrap css and done some reading on #StackOverflow PS I  noticed that I got the yearling silver badge. 
+21: I spent some time modifying #bootstrap css and done some reading on #StackOverflow PS I  noticed that I got the yearling silver badge.
 
 ### R1D26
 I watched @laracasts tutorial series on how to use #PHP with #vscode
@@ -93,7 +93,7 @@ I spent time experimenting with #WordPress and tried an app called Local by Flyw
 I started making yet another version of my portfolio,  using #reactjs and #W3.CSS framework, I needed a brief respite from using #Bootstrap W3.css has a very nice and intuitive class names
 
 ###R1D30
-I listened to two presentations, one on Functional Programming and another about Redux from at the @JSSarajevo meetup, very illuminating! 
+I listened to two presentations, one on Functional Programming and another about Redux from at the @JSSarajevo meetup, very illuminating!
 
 ###R1D31
 I'm back to working on my portfolio, splitting the app into components, once that is done I'l try to implement what I've learner yesterday and add a contact from using #Redux forms.
@@ -117,7 +117,7 @@ I'm looking into LESS, CSS pre-processor, and I'm staring to see that it has a l
 I'm reading React.js Succinctly,a free e-Book by Samer Buna, friendly towards lazy readers and dope introduction to React.
 
 ### R1D38
-WordPress again, continuing to work on the band (BASHESKIA & EDWARD EQ) website for a friend,adding images and more textual content and a few more videos: https://youtu.be/NdczEgEj2n0 
+WordPress again, continuing to work on the band (BASHESKIA & EDWARD EQ) website for a friend,adding images and more textual content and a few more videos: https://youtu.be/NdczEgEj2n0
 
 ### R1D39
 I'm making a  site for a dance instructor, I added a contact form, now I'm working on adding a membership forum: https://github.com/Mickey0001/SriDeviRadhika
@@ -153,19 +153,19 @@ Getting started with JavaScript: Understanding the Weird Parts course (by Anthon
 After taking a short break yesterday, I resume the Alicea's #javascript course, reminded my self of some important concepts: scope, function invocation, synchronous vs asynchronous execution and  finally understood what variable hoisting really is!
 
 ###R1D50
-Tried a few #WordPress multi-lingual plugins, Weglot seems okay, free version translates up to 2k words on a single site, pretty easy to implement and customize, just add the API key and chose display options, some translations aren't ideal but... 
+Tried a few #WordPress multi-lingual plugins, Weglot seems okay, free version translates up to 2k words on a single site, pretty easy to implement and customize, just add the API key and chose display options, some translations aren't ideal but...
 
-### R1D51 
+### R1D51
 Day 51: Resuming the C# course, I've learned how to write the basic "Hello World", also learned about the .NET class library and what it does, learned how comments are written - pretty much same as in #javascript also learned that C#  is VERY case sensitive.
 
-### R152
+### R1D52
 I've learned about  datatypes, variables and conditional statements in C# I just keep making syntactic comparisons to #javascript in my head all the time! Overall I'm slowly falling in love the with strictness of C# Last but not least, I won a potato!
 
 ### R1D53
 I'm using the #WordPress Yoast SEO plugin to improve clients site  visibility in search results, after that I plan to teach the client how to use the plugin for future posts (it's very user friendly) to make use of best keywords and practices
 
 ### R1D54
-I covered loops in #C but more importantly I can finally see (sharply) for myself how learning a second, third, or 10th language, actually increases your understanding of languages you previously learned! In my case #javascript make more sense now! 
+I covered loops in #C but more importantly I can finally see (sharply) for myself how learning a second, third, or 10th language, actually increases your understanding of languages you previously learned! In my case #javascript make more sense now!
 
 ### R1D55
 Today I've learned about arrays in C# (index starts at 0, of course), how iterate through arrays with for loop and foreach and how to reverse strings using builtin helper methods.
@@ -174,7 +174,7 @@ Today I've learned about arrays in C# (index starts at 0, of course), how iterat
 Sharing what you know is another good way of learning, I showed a client how to change version of PHP in cPanel (to speed up WordPress a little bit) and gave a few SEO pointers followed by demonstrations. #hashtag
 
 ###R1D56
-Made some final adjustments to the mobile layout using media queries, I decide to hide the slider on small screens, while I was at it fixed a few CSS conflicts, working for a detailed oriented client I learned more about CSS then I ever thought I would! 
+Made some final adjustments to the mobile layout using media queries, I decide to hide the slider on small screens, while I was at it fixed a few CSS conflicts, working for a detailed oriented client I learned more about CSS then I ever thought I would!
 
 ### R1D57
 I started the  Unit Testing with Mocha, Chai and Sinon #Udemy course with my homie @amelqru We figured it will be easier to learn together to  improve out QA skills.
@@ -203,7 +203,7 @@ Learned more about objects in C#, .NET runtime and what it does, also learned ab
 ###R1D65
 I resumed the C# course today I covered scope and accessibility modifiers
 
-### R1D66 
+### R1D66
 Covered assemblies and namespace in C# today, also learned how to create a text file with C# and how to do basic web scraping. Next lesson is collections, few more left after which I'm start the .NET MVC course!
 
 ### R1D67
@@ -213,7 +213,7 @@ Covered collections in C# today and checked out a few WordPress translation plug
 Covered LINQ in C# query methods, it's like an ORM but it's not an ORM, I will need to dive deeper into this topic.
 
 ### R1D69
-oday I cover enumeration and switch statements in C# - changed colors for different cases to make the console output nice and colorful, yay! 
+oday I cover enumeration and switch statements in C# - changed colors for different cases to make the console output nice and colorful, yay!
 
 ### R1D70
 Installed SSL certificates on 5 different domains, for a client, enforced HTTPS redirection now all that's left is fixing a few mixed content errors.
@@ -234,13 +234,13 @@ Completed the first half of RWD course, I really love it when the instructor pro
 I completed one more chapter of the RWD course, one about navigation patterns, played around with the Duplicator plugin for migrating WordPress from localhost to live server and learned along the way that using FTP is a walk in the park! #nerd #life
 
 ###R1D76
-I completed the RWD course (with a score of 85%, missed a few questions) and learned how to manually export a database using phpMyAdmin.  Also thanks to @TheAdnanHimself for giving me a few #php pointers, it's interesting to watch someone else code! 
+I completed the RWD course (with a score of 85%, missed a few questions) and learned how to manually export a database using phpMyAdmin.  Also thanks to @TheAdnanHimself for giving me a few #php pointers, it's interesting to watch someone else code!
 
 ###R1D77
 I figured out how to add an additional sidebar to the GreatMag theme, migrated another (with Duplicator, since migrating the db manually takes too much time) #WordPress site to a test server (https://basheskiawordpress.000webhostapp.com/ ) now I'm off to practice some #jQuery  
 
 ###R1D78
-Spent most of the day  practicing #jQuery watched a few tutorials and implemented the Lightbox gallery plugin on my friend's site: https://safetbeg.com/roma.html 
+Spent most of the day  practicing #jQuery watched a few tutorials and implemented the Lightbox gallery plugin on my friend's site: https://safetbeg.com/roma.html
 
 ###R1D79
 Today I've been coding along with @LearnCodeAcad jQuery tutorial series and having lots of fun!
@@ -252,7 +252,7 @@ Day 80: Continued practicing #jQuery DOM manipulation, started making  jQuery Ta
 Continue practicing, finally got my panel to toggle properly, it seems toggle works better then slideUp and slideDown for some reason, now off to start making the #jQuery slider!
 
 ### R1D84
-Almost done with the #jquery mini course, today I made a (ninja) slider, with pictures of ninjas - sliding! 😍https://mickey0001.github.io/jQueryPractice/ 
+Almost done with the #jquery mini course, today I made a (ninja) slider, with pictures of ninjas - sliding! 😍https://mickey0001.github.io/jQueryPractice/
 
 ### R1D85
 More #jquery I practiced ajax get and post methods today, practiced by making calls to a "fake" API, it was a lot of fun!
@@ -276,7 +276,7 @@ I Resumed the JavaScript: Understanding the Weird Parts course, finished Types a
 Completed a big portion of JavaScript: Understanding the Weird Parts - Objects and Functions,I'm gradually beginning to gain a deeper understanding of #javascript but I've still got a very long road ahead of me!
 
 ### R1D91
-I've decided to re-do my portfolio in #reactjs I got the basic setup done, installed a few dependencies (#Bootstrap and Font Awesome) and made a few functional stateless components. Ich liebe React very muchisimo! 
+I've decided to re-do my portfolio in #reactjs I got the basic setup done, installed a few dependencies (#Bootstrap and Font Awesome) and made a few functional stateless components. Ich liebe React very muchisimo!
 
 ### R1D92
 After a brief weekend break, resumed the JS course, today I covered the Object-Oriented Javascript and Prototypal Inheritance section, some pretty sweet esoteric stuff right there
@@ -300,7 +300,7 @@ I worked on my portfolio and added a few cards to the project section.  And whil
 I added a carousel comportment to my portfolio in order display client recommendations, now I'll have to style it a little bit more.
 
 ###R1D99
-Imported some images in my react portfolio and started working on the Contact component using redux-form. 
+Imported some images in my react portfolio and started working on the Contact component using redux-form.
 
 ###R1D100
 Day 100! Added auto-play loop to the client carousel (stateful component) also added a test version of logo and favicon to see how would it look as a whole. Tomorrow I'm starting round two of the challenge!
