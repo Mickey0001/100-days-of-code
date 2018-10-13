@@ -86,7 +86,7 @@ Reviewing the course section on SQL joins.
 I'm on vacation, but that's no reason to pause learning #SQL . I gave a talk on #freelancing yesterday for the 11th @freeCodeCamp #sarajevo campsite at @ACADEMY387 I wanna thank my friend @adnanrahic for talking me into it.😀 #meetup #freeCodeCamp #nerds
 
 ##R2D28
-ontinuing with Colt's SQL Udemy course, making a schema for a simplified clone of Instagram's database, this is the part when it gets fun!
+Continuing with Colt's SQL Udemy course, making a schema for a simplified clone of Instagram's database, this is the part when it gets fun!
 
 ##R2D29
 Today I practiced #SQL and finished writing a short blog post on my presentation at the #freeCodeCamp campsite: https://ift.tt/2CEm93m
@@ -111,3 +111,69 @@ I completed Colt Steel's #SQL course and learned a lot new tricks along the way,
 
 ##R2D36
 Today I started learning ASP #Dotnet MVC, completed the first hour of the course, setup a basic project and passed the first assessment.  I'm noticing a lot of similarities with #Laravel -  after all they're are both MVC frameworks.
+
+###R2D37
+Today I learned about models and scaffolding in http://ASP.NET  MVC, having primarily used a text editors for the web previously, I'm really impressed with what Visual Studio IDE has to offer! #Dotnet #VisualStudio #Microsoft #MVC #AspNetCore
+
+###R2D38
+Worked on project for a client, watched a tutorial on productivity in Visual Studio and another one on theory in object oriented programming.  #programming #VisualStudio #Dotnet #OOP
+
+###R2D39
+ Learned about controllers in http://ASP.NET  MVC and juggled between two clients, it ain't easy, but somebody has to be a real ninja OG, ya digg.
+
+###R2D40
+Learning about views in http://ASP.NET  MVC, Razor templates seems similar to Blade templates in #Lavravel they both start with the @ sign!
+
+###R2D41
+Complete the intro http://ASP.NET  MVC course from MVA and started the The http://ASP.NET  MVC 5 Course from Mosh Hamedani on Udemy. Also wrote a short blog post about Grunt:  https://ift.tt/2xAcGVV  #DotNet #grunt #Microsoft #javascript
+
+###R2D42
+Installed a few productivity extensions for #VisualStudio so I can start the new course. Also prepared the presentation (and made sure it's full of MEMES) about #100DaysOfCode challenge for the #OpenWebSarajevo  #Meetup tomorrow.
+
+###R2D43
+ Went to a design meetup and although  designers speak a language that's alien to me, it's interesting to hear them talk nonetheless! Now I'm off to a second meetup. #OpenWebSarajevo #IXDA #worldinteractiondesignday #meetups
+
+##R2D44
+Went to @BosniaAgile #meetup about #Jira and got a nice cap.  Also wrote a blog post: https://ift.tt/2zw1tXU  about my presentation on #100DaysOfCode yesterday at the #OpenWebSarajevo meetup.  #Atlassian #Agile #webdeveloper #nerd #programming #codingchallenge #coders
+
+##R2D45
+Practiced routing in http://ASP.NET  MVC #Csharp #dotnet
+
+##R2D46
+Working on my asp #Dotnet app, I changed the plain default #Bootstrap template to Lumen so it looks nicer and cleaner. Also wrote a blog post: https://ift.tt/2OTwsm4  about the upcoming #Gutenberg editor in #WordPress
+
+##R2D47
+Coded a little and mostly chilled with podcasts. #webdev #coding #podcast #syntaxfm #programming #NerdOut #Geek
+
+##R2D48
+Practiced OOP in C#  and went a group coding interview, which a pretty new concept for me.
+
+##R2D49
+Worked on the client's site to make it faster and made 3 pull requests for #Hacktoberfest, 2 got merged so far. 😀#301DaysofCode #OpenSource #git #GitHub #coding #DigitalOcean #WordPress #nerd #dudesWhoCode #WebDeveloper #programming #Coders #Geek #vscode
+
+##R2D50
+Made a few more #Hacktoberfest #opensource contributions and did some #WordPress stuff for the client.  😀
+
+##R2D30
+Went to a pretty dope #CloudNative meetup at @MOPsocial now continuing to learn #sql
+
+##R2D32
+I'm almost done with Colt's #SQL course, next up I'm thinking about starting to learn http://ASP.NET  MVC since I played around with C# and I liked it, I liked it a lot. 😀#Dotnet #csharp #InternationalProgrammersDay
+
+##R2D51
+Worked on a couple of client projects and finished 5 pull requests for #Hacktoberfest and I'll keep contributing after that.
+
+##R2D52
+Worked on projects for 3 different clients and I noticed something that put a smile on my face, in 2018 I had over 1000 commits on #GitHub! Just for comparison in 2017 I had 19 and in 2016 I had only one.
+
+##R2D53
+ Resumed the .NET MVC courses, practiced using partial views and started with the section on Entity framework, which sort of reminded  me of Laravel's Eloquent ORM.
+
+##R2D54
+Learned C# and .NET, updated and tweaked my portfolio (http://mirzasisic.com ) a little bit, made the social icons more touch-screen friendly and added a new client testimonial.  I'm not a #JavaScript #hipster but I missed working with #reactjs
+
+##R2D55
+Worked on making a landing page for a client, made a few portfolio tweaks and practiced C# on  @SoloLearn - the mobile app has much more content then the website. 🤓#reactjs #HTML5 #javascript #CSS #php #csharp #bootstrap #github #firebase #apache #jquery
+
+##R2D56
+Finished a landing page for the client and worked on integrating a few contact and review plugins with the site, also made some fixes on a friend's portfolio: https://kemalkonakovic.github.io/KemalKonakovic  he just needs to review my pull request.  #Hacktoberfest #301DaysOfCode
