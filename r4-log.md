@@ -212,7 +212,10 @@ Experimented with a few SQL queries in SSMS and read Cucumber docs on the topic 
 ### R4D69
 Getting more acquainted with Cucumber and doing some exploratory testing.
 
-### R4D70 ### R4D71 ### R4D72 ### R4D73
+### R4D70 
+### R4D71 
+### R4D72 
+### R4D73
 Practiced SQL,  C#  and helped a designer friend finish a few coding projects.
 
 ### R4D74
@@ -248,7 +251,9 @@ Learned more about Angular, practiced a bit of SQL and went to a design lecture 
 ### R4D84
 Done some more reading about Angular and started drafting a new post - I've haven't been blogging much for the past 2-3 months.  I have to force myself to start some mirzastic Angular project soon, to put to practice what I've learned!
 
-### R4D85 ### R4D86 ### R4D87
+### R4D85 
+### R4D86 
+### R4D87
 Learning Angular and doing a bit of freelancing over the weekend.
 
 ### R4D88
@@ -263,7 +268,10 @@ Experimented with a few new SQL queries and read about  routing in AngularJS.
 ### R4D91
 Read about Angular, practiced SQL and went to a QA meetup with a couple of colleagues after work, listened to lectures about future of QA profession, automation with Docker and API testing in Postman, it was mirzastic learning experience!
 
-### R4D92 ### R4D93 ### R4D94 ### R4D95
+### R4D92 
+### R4D93 
+### R4D94 
+### R4D95
 Couple of days spent learning Angular and reading about it, it's time to start a project!
 
 ### R4D96
@@ -273,5 +281,7 @@ Completed a short course on C#, done some native testing on Android, a bit of a 
 
 Started learning test automation formally today, played around with a few existing test also done some native bug hunting and started a short course on http://ASP.NET
 
-### R4D98 ### R4D99 ### R4D100
+### R4D98 
+### R4D99 
+### R4D100
 Spent the last few learning test case automation with C# that will be my main focus in the upcoming period, also diving in deeper in SQL and getting more familiar with Angular - focusing on testing with Protractor, Jasmine and Karma.
