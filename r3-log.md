@@ -4,70 +4,70 @@ The log of my #100DaysOfCode challenge. Started on [August 9, Thursday, 2018].
 
 ## Log
 
-### R3D1
+###  R3D1
 Today I'm start round 3 of the challenge, doing some #WordPress work and starting with the Colt Steele's #SQL course on Udemy.
 
-### R3D2
+###  R3D2
 Making custom sidebars for #WordPress widgets and learning #SQL along the way.
 
-### R3D3
+###  R3D3
 Practicing #SQL
 
-### R3D4
+###  R3D4
 Working on integrating a custom slider with a #WordPress theme. Some clients tend to have very strong affinity towards sliders it would seem. Hopefully later I will find time to practice #SQL a bit as well.
 
-### R3D5
+###  R3D5
 Installing #MySQL on #Windows is not as bad as Colt Steele says, maybe because I'm a long time windows ninja power user, or more likely explanation is that growing a beard gave me super powers, who's to say! Also wrote a blog post: https://bit.ly/2vFLuUY
 
-### R3D6
+###  R3D6
 Learning #PHP and updating my #wordpresstheme
 
-###R3D7
+### R3D7
 Practiced #WordPress and done some testing in #BrowserStack to see how will the site look on higher resolutions.
 
-###R3D8
+### R3D8
 Messing around with WordPress and being happy for: TGIF
 
-###R3D9
+### R3D9
 Continued working on a  website for a jazz artist, it seemed fitting to take a few hours off chilling in my favorite jazz bar in town.
 
-###R3D10
+### R3D10
  Learning #SQL Colt used a cats table as an example, followed by a hilarious meme, so I had to use a dogs table. I love dogs and I love databases. 😍
 
-###R3D11
+### R3D11
 Working on #WordPress a little bit, not much since it's holiday, #EidMubarak to anyone celebrating!
 
-###R3D12
+### R3D12
 Working on my #WordPress widget.
 
-###R3D13
+### R3D13
   I got some valuable advice from a more experienced #WordPress  developer today and discovered custom posts types - they seem very useful and scalable.
 
-###R3D14
+### R3D14
 Completed the 3rd section (creating tables and databases) of Colt's #SQL course and starting the next section - inserting data.
 
-###R3D15
+### R3D15
 Continuing to learn #SQL
 
-###R3D16
+### R3D16
 Fixed a few meta descriptions and keywords on a friend's website and practiced SQL, since C9 can be a little slow I just used the SQL tab in PhpMyAdmin.
 
-###R3D17
+### R3D17
 Practiced SQL and re-took a #WordPress test (first score was 1.50 now it's 3.80) on #Upwork I noticed I learned a lot the past 3 months, knowing the correct answer is important, but understanding why it's correct is more important in my opinion.
 
-###R3D18
+### R3D18
 Started working on a new #WordPress project, later on I will try to find some time for #SQL
 
-###R3D19
+### R3D19
 Working on a #WordPress client project and learning #SQL I made a repository for practicing SQL and, most importantly, I put a dog meme in the read-me file.
 
-###R3D20
+### R3D20
 Practicing functions string in SQL.
 
-###R3D21
+### R3D21
 Learning #SQL string functions and selections. I didn't code as much over the weekend, but I did go to cool @JSSarajevo Meetup at @MistralTech - it was a lot of fun!
 
-###R3D22
+### R3D22
  Learning #SQL functions and preparing a presentation on freelancing for the next #freeCodeCamp campsite here in #Sarajevo
 
 ##R3D23
@@ -112,25 +112,25 @@ I completed Colt Steel's #SQL course and learned a lot new tricks along the way,
 ##R3D36
 Today I started learning ASP #Dotnet MVC, completed the first hour of the course, setup a basic project and passed the first assessment.  I'm noticing a lot of similarities with #Laravel -  after all they're are both MVC frameworks.
 
-###R3D37
+### R3D37
 Today I learned about models and scaffolding in http://ASP.NET  MVC, having primarily used a text editors for the web previously, I'm really impressed with what Visual Studio IDE has to offer! #Dotnet #VisualStudio #Microsoft #MVC #AspNetCore
 
-###R3D38
+### R3D38
 Worked on project for a client, watched a tutorial on productivity in Visual Studio and another one on theory in object oriented programming.  #programming #VisualStudio #Dotnet #OOP
 
-###R3D39
+### R3D39
  Learned about controllers in http://ASP.NET  MVC and juggled between two clients, it ain't easy, but somebody has to be a real ninja OG, ya digg.
 
-###R3D40
+### R3D40
 Learning about views in http://ASP.NET  MVC, Razor templates seems similar to Blade templates in #Lavravel they both start with the @ sign!
 
-###R3D41
+### R3D41
 Complete the intro http://ASP.NET  MVC course from MVA and started the The http://ASP.NET  MVC 5 Course from Mosh Hamedani on Udemy. Also wrote a short blog post about Grunt:  https://ift.tt/2xAcGVV  #DotNet #grunt #Microsoft #javascript
 
-###R3D42
+### R3D42
 Installed a few productivity extensions for #VisualStudio so I can start the new course. Also prepared the presentation (and made sure it's full of MEMES) about #100DaysOfCode challenge for the #OpenWebSarajevo  #Meetup tomorrow.
 
-###R3D43
+### R3D43
  Went to a design meetup and although  designers speak a language that's alien to me, it's interesting to hear them talk nonetheless! Now I'm off to a second meetup. #OpenWebSarajevo #IXDA #worldinteractiondesignday #meetups
 
 ##R3D44
@@ -184,25 +184,25 @@ Practiced C# and worked on client project.
 ##R3D58
 Did some research on OctoberCMS, I plan to write a blog post about it since it's October now.
 
-###R3D59
+### R3D59
 Done some reading about design patterns and practiced C# over the @SoloLearn app, there is a big community of nerds there so that means more opportunity for me to steal coding related hilarious memes.
 
-###R3D60
+### R3D60
  Playing around with @octobercms since I need a short break from WordPress (I use it a lot) and October CMS seems like a fun thing to experiment with. 😀 #WordPress #php #OctoberCMS #CMS
 
-###R3D61
+### R3D61
 Continued to play around with OctoberCMS, while personally I love editing template files, and having more control, I don't think clients could say the same.  It's fun for developers but not as user-friendly for non-coder as WordPress.
 
-###R3D62
+### R3D62
 Updated a few components in my portfolio by adding a  more client testimonials, done some reading about http://ASP.NET  MVC, tried a few a coding challenges on #SoloLearn and wrote a blog about the OctoberCMS: https://ift.tt/2J2EjeP
 
-###R3D63
+### R3D63
 Made a few more improvements to my portfolio, cleaned up the unused npm packages, removed the slider as it was muchisimo le annoying das moi and made the heading look better with a media query for smaller viewports.  #css3 #reactjs #bootstrap4 #npm #VSCode
 
-###R3D64
+### R3D64
 Helping a client in distress is a nice thing to do, especially when they put their money where their mouth is. I don't know man, sometimes I just feel like a hero...
 
-###R3D65
+### R3D65
 Started with Stephen Grider's  The Coding Interview Bootcamp course where he uses  Jest.js  for testing the code, which is a good thing since I want to get better at unit tests, for reasons a plenty.  #jestjs #coding #Algorithms #javascript #testing #NodeJS
 
 ##R3D66
