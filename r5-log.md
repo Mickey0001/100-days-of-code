@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 5 - [Mirza Sisic]
 
-The log of my #100DaysOfCode challenge. Started on [November 28, Wednesday, 2018].
+The log of my #100DaysOfCode challenge. Started on [March 18, Monday, 2019].
 
 ## Log
 
