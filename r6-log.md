@@ -61,3 +61,6 @@ Practiced C# on SoloLean and continued the course section on inheritance.
 
 ## R6D21
 Continued learning more about inheritance in C#, done some debugging of my unit tests.
+
+## R6D22
+Made a new project withing my solution for the reusable methods - my own little class library. I made a mistake in counting the days for this round and skipped two days, even though I did them, so I'm correcting that today. 🤪
